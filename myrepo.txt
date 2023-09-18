@@ -1,0 +1,11 @@
+this is my first repo
+
+git clone url
+cd repo name
+
+code .
+ create a file with saome text
+  git add .
+  
+  git commit -m "your commit message"
+  git push
